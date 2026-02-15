@@ -1,5 +1,3 @@
-https://roadmap.sh/projects/number-guessing-game
-
 # Number Guessing Game
 
 A simple yet engaging command-line number guessing game written in Java. Test your luck and logical skills by guessing the secret number within a limited number of attempts!
